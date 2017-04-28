@@ -14,7 +14,7 @@
 ```bash
 if [ -f ~/.devBash ]; then
   source ~/.devBash
-fi$
+fi
 ```
 * Symlink devBash to this location: `ln -s ~/Documents/DevSettings/.devBash ~/.devBash`  
 * Refresh: `source ~/.bash_profile`  
